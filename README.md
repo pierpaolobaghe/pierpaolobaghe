@@ -1,10 +1,22 @@
 ### Hi there 👋
 
+
+#### 🔭 About Me
+
+Passionate about technology and IT since when I was a kid, I started up with programming by writing my own Minecraft plugins for my server.
+Since then, my path brought me through various stacks and programming languages, which helped me forge this passion and gain expertise in various fields.
+
+In 2019, I was hired at [alpenite](https://alpenite.com), which is the company I am currently working for.
+Here, I had the chance to apply knowledge and learn something new everyday.
+
+#### ⚡ I’ve worked on
+- Adobe Experience Manager
+- SAP Hybris (Commerce Cloud)
+- SAP Cloud Platform
+- Adobe Campaign Classic
+
+
 <!--
-**pierpaolobaghe/pierpaolobaghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
