@@ -15,6 +15,15 @@ Here, I had the chance to apply knowledge and learn something new everyday.
 - SAP Cloud Platform
 - Adobe Campaign Classic
 
+#### 🌱 My favourite technologies
+- Kotlin
+- GoLang
+- Java
+- TypeScript
+- Apache Kafka
+- Apache Spark
+- ReactJs
+
 
 <!--
 - 🔭 I’m currently working on ...
