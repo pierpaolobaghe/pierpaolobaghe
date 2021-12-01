@@ -1,0 +1,64 @@
+[
+  {
+    "type": "group",
+    "title": "Ti Sblocco un ricordo - Collection",
+    "playlistData": [
+      {
+        "id": "0mtRRq6eDG2uOvOZrI3aeY",
+        "name": "Vol. 1",
+        "img": "tsur.jpeg"
+      },
+      {
+        "id": "686pH6EtScSB53aAsjkyFY",
+        "name": "Vol. 2",
+        "img": "tsur.jpeg"
+      },
+      {
+        "id": "7dWmNOtCRrPvVByKfla25Y",
+        "name": "Vol. 3",
+        "img": "tsur.jpeg"
+      },
+      {
+        "id": "4V08QuHu25Z4697UiP7js5",
+        "name": "Vol. 4",
+        "img": "tsur.jpeg"
+      },
+      {
+        "id": "5n95R3nzJCVQSzXqDR5Rgd",
+        "name": "Vol. 5",
+        "img": "tsur.jpeg"
+      }
+    ]
+  },
+  {
+    "type": "group",
+    "title": "Other",
+    "playlistData": [
+      {
+        "id": "38aNelWLZDLlVJQ0C9Vugc",
+        "name": "Future Bass Selection.",
+        "img": "futurebass"
+      },
+      {
+        "id": "0bZXjTCvkCU84ZRW1JxBFc",
+        "name": "Travelling in the Sunset.",
+        "img": "sunset"
+      },
+      {
+        "id": "1VAODyxPF2v4nCcbYJYJvQ",
+        "name": "Tech House",
+        "img": "tech"
+      },
+      {
+        "id": "5LrJ9qeM09OVIfsGwtrLo6",
+        "name": "Powerful Techno",
+        "img": "tech"
+      },
+      {
+        "id": "69duUc3YQpAOzwhPYUGfZn",
+        "name": "Minimal Techno",
+        "img": "minimal"
+      }
+    ]
+  }
+]
