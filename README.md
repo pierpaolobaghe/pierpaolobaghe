@@ -29,7 +29,9 @@ My path towards process analysis and continuous improvement/optimization made me
 
 ### 🌱 More about me
 My Homepage: [pierpaol.ooo](https://pierpaol.ooo)
-PRISMA Agency: [alpenite](https://prisma.agency)
+
+PRISMA Agency: [prisma.agency](https://prisma.agency)
+
 Want some playlists? [lookme.at](https://lookme.at)
 
 <!--
